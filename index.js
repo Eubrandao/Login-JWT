@@ -51,7 +51,7 @@ app.post('/users', async (req, res)=>{
 })
 
     
-
+//------------------REQUISIÇÃO DE LOGIN----------------------------
 app.post('/login', async(req, res)=>{
 
     const {MY_SECRET_KEY} = process.env
