@@ -4,5 +4,5 @@ API de autenticação usando o MongoDb e autorização utilizando o JWT, essa AP
 # ENVS
 Obs: O acesso ao MongoDb e a chave do JWT, estão armazenadas em variáveis de ambiente, caso você clone esse projeto será necessário criar um arquivo .env
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Eubrandao&show_icons=true)
+
 
