@@ -1,0 +1,5 @@
+#dotenv
+.env.local
+
+# Dependency directories
+node_modules/
